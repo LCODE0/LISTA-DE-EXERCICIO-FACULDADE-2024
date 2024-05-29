@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-   vector<int> num(10);
+  vector<int> num(10);
   int maior;
   int menor;
   
