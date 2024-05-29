@@ -34,5 +34,5 @@ int main() {
   cout << "O maior numero do vetor e: " << maior << endl;
   cout << "O menor numero do vetor e: " << menor << endl;
  
-  
+  return 0;
 }
